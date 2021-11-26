@@ -3,7 +3,7 @@
 ----
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
-### Change language: <a href="https://github.com/nycolexavier/nycolexavier/blob/main/READMEeng.md" target="_blank">🇺🇸 </a> 
+### Change language: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEeng.md" target="_blank">🇺🇸 </a> 
 
 <p align="center">Este projeto faz parte do Ignite da RocketSeat<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
 
@@ -24,7 +24,7 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 - [x] Conceitos importantes
 - [x] Chamadas HTTP 
 - [x] Usando Typescript
-- [ ] Finalizando aplicação
+- [x] Finalizando aplicação
 
 ### Tecnologia
 
