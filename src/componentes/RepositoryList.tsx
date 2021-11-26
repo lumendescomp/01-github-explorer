@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import { RepositoryItem } from "./RepositoryItem";
 
 import '../styles/repositories.scss';
-// import { useState } from "react";
 
 interface Repository {
     name: string;
