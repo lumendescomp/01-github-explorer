@@ -7,6 +7,9 @@
 
 ### Cambiar idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
 
+### Application: 
+![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
+
 <p align="center">This project is part of RocketSeat's Ignite<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
 
 <p align="center">
@@ -33,7 +36,7 @@ The following tools were used in the construction of the project:
 
 - [Discover](https://app.rocketseat.com.br/discover)
 - [Visual Studio Code](https://code.visualstudio.com/download)
-- [JavaScript](https://www.javascript.com/)
+- [ReactJs](https://reactjs.org/docs/getting-started.html)
 
 ### License
 
