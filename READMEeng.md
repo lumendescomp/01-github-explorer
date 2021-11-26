@@ -27,7 +27,7 @@ In this repository I keep all the notes, materials and projects that were carrie
 - [x] Finishing application
 
 ### Technology
-The following tools were used in the construction of the project:
+The following tools were used in the construction of the project: 
 
 - [Discover](https://app.rocketseat.com.br/discover)
 - [Visual Studio Code](https://code.visualstudio.com/download)
