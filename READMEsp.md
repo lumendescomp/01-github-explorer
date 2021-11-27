@@ -10,6 +10,33 @@
 ### Solicitud: 
 ![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
 
+### Installation
+
+```
+# abre tu terminal / cmd y clona este repositorio
+
+git clone https://github.com/leon-carvalho/github-explorer.git
+
+# acceder a la carpeta github-explorer
+
+cd github-explorer
+
+# instalar dependencias usando su administrador de paquetes favorito
+
+yarn
+# o con NPM usando npm install
+npm install
+
+# ejecutar la aplicación
+
+yarn start
+#o con NPM
+npm run start
+
+# La aplicación debería abrirse en "http://localhost:8000" 🎉🎉🎉
+
+```
+
 <p align="center">Este proyecto es parte de Ignite de RocketSeat<a href="https://www.rocketseat.com.br/ignite" target='_blank'> Aqui </a> </p>
 
 <p align="center">
