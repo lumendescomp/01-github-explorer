@@ -7,7 +7,7 @@
 
 ### Cambiar idioma: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEsp.md" target="_blank">🇪🇸</a> 
 
-### Aplicação: 
+### Application: 
 ![image](https://user-images.githubusercontent.com/94902491/143624784-7dfa345b-6b53-4856-9ee2-4bd82b8d265f.png)
 
 
