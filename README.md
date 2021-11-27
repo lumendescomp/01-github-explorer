@@ -44,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 MIT License ©
 
-### Author
+### Autora
 ---
 
 <a href="https://nycole-xavierr.medium.com/">
